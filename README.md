@@ -1,2 +1,0 @@
-# Portugol
-Exercícios de Portugol.
